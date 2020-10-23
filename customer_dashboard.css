@@ -1,0 +1,44 @@
+.gallery {
+	background: url('dot.jpeg');
+	margin: 0;
+	background-size:1500px;
+	height: 750px;
+}
+.jump{
+	align:center;
+	padding-top: 150px;
+	opacity: 0.8;
+	color: #2E3F61;
+	font-family: Roboto;
+	font-weight: 900;
+	font-size: 25px;
+	padding-left: 115px;
+}
+
+#About-contact {
+	background-color: #2E3F61;
+}
+
+.card-img-top {
+	width: 80%;
+}
+
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 80px;
+}
+#our {
+	background-color: #4E5276;
+	border-radius: 25px;
+	padding: 1px 1px;
+}
+
+.btn-card {
+	background-color: #2E3F61;
+	color: white;
+	font-weight: bold;
+}
+
+
+
